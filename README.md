@@ -3,11 +3,11 @@
 In this project, I have built a Machine learning Linear Regression model. I have analysed the Insurance charges dataset to determine the insurance price based on different parameters. 
 
 
-##Problem Statement:
+## Problem Statement:
 Predict how much could be the insurance charges for a beneficiary based on the data provided using Linear Regression.
 
 
-##About the dataset:
+## About the dataset:
 
 The dataset contains 1338 rows where each row represents details about an individual and the following 7 columns:
 
